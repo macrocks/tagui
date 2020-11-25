@@ -1,4 +1,4 @@
-# Tagui -open source RPA example
+# TagUI -open source RPA example
 real time example to use tagui -open source rpa for dvla exam reschedule functionality
 #Setup
 you should follow steps to setup tagui open source tool from https://tagui.readthedocs.io/en/latest/setup.html
